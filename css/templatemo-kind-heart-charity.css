@@ -1589,6 +1589,13 @@ blockquote::before {
 }
 
 @media screen and (max-width: 480px) {
+  #company-logo {
+    width: 50px;
+  }
+  #company-title {
+    font-size: 15px;
+  }
+
   h1 {
     font-size: 40px;
   }
